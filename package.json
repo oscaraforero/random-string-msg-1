@@ -1,0 +1,27 @@
+{
+  "name": "random-string-msg-1",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscaraforero/random-string-msg-1.git"
+  },
+  "keywords": [],
+  "author": "Oscar Forero <oscaraforero@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oscaraforero/random-string-msg-1/issues"
+  },
+  "homepage": "https://github.com/oscaraforero/random-string-msg-1#readme",
+  "bin": {
+    "random-string-msg-1": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
